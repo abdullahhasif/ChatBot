@@ -1,2 +1,2 @@
-# AI Bootcamp Gemini Chatbot Training
- AI Bootcamp Gemini Chatbot Training
+# VoxVista ChatBot
+ This is my first ever chatbot
